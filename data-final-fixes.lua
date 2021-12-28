@@ -85,7 +85,7 @@ data:extend({
         type = "technology",
         name = "manganese-ore-refining",
         icon = "__angelsrefining__/graphics/technology/ore-sorting.png",
-        icon_size = 128,
+        icon_size = 256,
         prerequisites = {
             "advanced-ore-refining-1",
             "ore-advanced-crushing"
@@ -113,7 +113,7 @@ data:extend({
         type = "technology",
         name = "chrome-ore-refining",
         icon = "__angelsrefining__/graphics/technology/ore-sorting.png",
-        icon_size = 128,
+        icon_size = 256,
         prerequisites = {
             "advanced-ore-refining-3",
             "ore-electro-whinning-cell"

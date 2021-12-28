@@ -1,22 +1,7 @@
-# Factorio.ModTemplate
-Template for automated mod deployment using Github Actions when a tagged commit is pushed
-
-## Inputs (Github secrets)
-
-### `factorio_user`
-
-**Required** User that will be used to authenticate to the Factorio mod-portal.
-
-### `factorio_password`
-
-**Required** Password that will be used to authenticate to the Factorio mod-portal.
+# Pure Manganese/Chrome Sorting
+Adds recipes for pure manganese and chrome sorting using crushed ferrous or and ferrous crystals, respectively. Manganese has really nice recipes but doesn't have its own sorting option by default, and chrome is used in the mod Circuit Processing in mass quantities but with no reasonable way to produce it: hence, this mod.
 
 ## Acknowledgements
 
-Actions based on:
-- [Roang-zero1 Actions](https://github.com/Roang-zero1)
-
-Which are  based on:
-- [Nexelas Mods](https://github.com/Nexela)
-- [GitHub Action to automatically publish to the Factorio mod portal](https://github.com/shanemadden/factorio-mod-portal-publish)
-- Shane Madden (Nymbia)
+- [Github actions based on Roang-zero1 Actions](https://github.com/Roang-zero1)
+- Updated version of [Pure Manganese/Chrome Sorting](https://mods.factorio.com/mod/Manganese_Chrome_Sorting) by hexyhexagon.

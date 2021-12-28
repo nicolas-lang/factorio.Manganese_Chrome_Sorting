@@ -1,4 +1,21 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.0.1
+Version: 1.1.1
+  Updated-by:
+    - Karoschel
+  Major Features:
+    - Updated to 1.1
+  Bugfixes:
+    - Fixed Tech Icons
+    - Fixed Changelog
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+  Updated-by:
+    - hexyhexagon
+  Major Features:
+    - Chrome sorting recipe now uses hybrid catalysts instead of crystal catalysts.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.1
+  Updated-by:
+    - hexyhexagon
   Major Features:
     - Initial release.
