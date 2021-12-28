@@ -1,5 +1,11 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.1.1
+Version: 1.1.4
+  Updated-by:
+    - Karoschel
+  Major Features:
+    - Changed release process to github pipeline
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
   Updated-by:
     - Karoschel
   Major Features:
