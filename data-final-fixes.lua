@@ -37,7 +37,7 @@ data:extend({
             },
         },
         icon_size = 32,
-        icon = "__Manganese_Chrome_Sorting__/graphics/icons/manganese-sorting.png",
+        icon = "__nco-Manganese_Chrome_Sorting__/graphics/icons/manganese-sorting.png",
         order = "e-a",
 	},
 	{
@@ -77,7 +77,7 @@ data:extend({
                 {type="item", name="chrome-ore", amount=6},
             },
         },
-        icon = "__Manganese_Chrome_Sorting__/graphics/icons/chrome-sorting.png",
+        icon = "__nco-Manganese_Chrome_Sorting__/graphics/icons/chrome-sorting.png",
         icon_size = 32,
         order = "o-a",
 	},
